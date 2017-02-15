@@ -1,0 +1,7 @@
+#Tue Feb 07 20:00:16 CET 2017
+base.0=/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1b1e6013c7bf1bfef73bd521987704e23b58b15
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_254bb93de2def80bbb07946ad8c3bc7984c06d90/classes.dex
+base.1=/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_254bb93de2def80bbb07946ad8c3bc7984c06d90
+file.0=/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a1b1e6013c7bf1bfef73bd521987704e23b58b15/classes.dex

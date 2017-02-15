@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/res/merged/debug/raw/music.mp3",
+        "source": "/Users/47716121E/Desktop/android/SameGame/app/src/main/res/raw/music.mp3"
+    },
+    {
+        "merged": "/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/res/merged/debug/raw/pickup.mp3",
+        "source": "/Users/47716121E/Desktop/android/SameGame/app/src/main/res/raw/pickup.mp3"
+    },
+    {
+        "merged": "/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/res/merged/debug/raw/laser.mp3",
+        "source": "/Users/47716121E/Desktop/android/SameGame/app/src/main/res/raw/laser.mp3"
+    },
+    {
+        "merged": "/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/res/merged/debug/raw/cow.mp3",
+        "source": "/Users/47716121E/Desktop/android/SameGame/app/src/main/res/raw/cow.mp3"
+    },
+    {
+        "merged": "/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/res/merged/debug/raw/cat.mp3",
+        "source": "/Users/47716121E/Desktop/android/SameGame/app/src/main/res/raw/cat.mp3"
+    },
+    {
+        "merged": "/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/res/merged/debug/raw/barkloud.mp3",
+        "source": "/Users/47716121E/Desktop/android/SameGame/app/src/main/res/raw/barkloud.mp3"
+    },
+    {
+        "merged": "/Users/47716121E/Desktop/android/SameGame/app/build/intermediates/res/merged/debug/raw/explosion.mp3",
+        "source": "/Users/47716121E/Desktop/android/SameGame/app/src/main/res/raw/explosion.mp3"
+    }
+]
